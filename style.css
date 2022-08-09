@@ -1,0 +1,23 @@
+* {
+ 
+   font-family: 'sans-serif';
+}
+div {
+    background: greenyellow;
+    width: 100px;
+    height: 100px;
+    padding-top: 100px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+   
+    
+    
+}
+.relogio {
+   display: flex;
+   align-items: center;
+   height: 250px;
+   width: 500px;
+}
+    
